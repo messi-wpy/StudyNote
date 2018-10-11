@@ -36,3 +36,8 @@ mini
 2.梯度下降－－计算　cost function－－min j(i0,i1);
 不断递归计算，到函数收敛
 ![梯度下降计算](/pictures/GradientDescent.png)
+
+#### 多特征的线性回归
+
+1. 代价函数，参数梯度下降的变化，（偏导数）
+2. 特征缩放
